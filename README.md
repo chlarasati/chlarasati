@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo semua! 
-
 Perkenalkan nama saya **Catharine Hening Larasati**.<br>
 
 Saya seorang **Machine Learning Cohort** di [Dicoding](https://www.dicoding.com/).<br>
