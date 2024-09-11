@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Catharine Hening Larasati**.<br>
+
+Saya seorang **Machine Learning Cohort** di [Dicoding](https://www.dicoding.com/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/catharine-hening-larasati/)ku ya.
